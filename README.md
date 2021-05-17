@@ -1,2 +1,1 @@
-# Expected Inertial Activity for SO284
-
+Moved to: <https://git.geomar.de/willi-rath/2021-05_so284-inertial/>
